@@ -13,8 +13,8 @@ namespace Lesson02_HomeWork01
             Part34();
 
             Console.WriteLine("Enter any key ...");
-            Console.ReadLine();
-         }
+            Console.ReadKey();
+        }
 
         private static void Part1()
         {
